@@ -190,3 +190,4 @@ else:
         plt.ylabel('Frequency')
     plt.tight_layout()
     st.pyplot(plt)
+st.caption('Copyright (c) Saeful Fikri 2024')
