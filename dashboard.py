@@ -74,7 +74,7 @@ max_date = all_df["date"].max()
 ## Komponen dashboard sidebar
 with st.sidebar:
     # Menambahkan logo 
-    st.image("https://github.com/SFikri-Project/Projek-Akhir-Andat/raw/main/Screenshot%202024-03-03%20211042-modified.png")
+    st.image("https://github.com/SFikri-Project/Submission/raw/main/Screenshot%202024-03-03%20211042-modified.png")
     
     # Mengambil start_date & end_date dari date_input
     start_date, end_date = st.date_input(
